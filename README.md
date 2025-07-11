@@ -10,7 +10,7 @@ The Cloud Application Programming Model (CAP) is a framework of tools, languages
 -   [Community](#community)
 -   [Conferences](#conferences)
 -   [Tools](#tools)
--   [Libraries, Extensions, Plugins](#libraries--extensions--plugins)
+-   [Libraries, Extensions, Plugins](#libraries-extensions-plugins)
 -   [Sample Projects & Boilerplates](#sample-projects--boilerplates)
 -   [Tutorials & Courses](#tutorials--courses)
 -   [Certifications](#certifications)
@@ -83,9 +83,3 @@ The Cloud Application Programming Model (CAP) is a framework of tools, languages
 ## Books
 
 * [Developing Applications with the SAP Cloud Application Programming Model](https://www.sap-press.com/developing-applications-with-the-sap-cloud-application-programming-model_5152/) by Raja Gupta
-
----
-
-## Contributing
-
-Your contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.

@@ -35,6 +35,7 @@ The Cloud Application Programming Model (CAP) is a framework of tools, languages
 * [Stackoverflow - SAP CAP Tag](https://stackoverflow.com/questions/tagged/sap-cap) - Questions from the broader community on Stackoverflow.
 * [GitHub - CAP Community](https://github.com/cap-js-community) - GitHub repo with CAP plugins.
 * [Best of CAP Node.js](https://bestofcapjs.org/) - A complete collection of Node CAP plugins, tools and sample apps.
+* [CAP posts on qmacro.org](https://qmacro.org/tags/cap/) - Posts on various CAP topics from DJ Adams.
 
 ## Conferences
 
@@ -61,6 +62,9 @@ The Cloud Application Programming Model (CAP) is a framework of tools, languages
 
 * [SAP Learning Journeys](https://learning.sap.com/search?query=Cloud+Application+Programming+Model&page=1&access=free&access=subscription) - SAP Learning Journeys, courses, live sessions, etc.
 * [SAP Tutorials](https://developers.sap.com/tutorial-navigator.html?tag=software-product-function%3Asap-cloud-application-programming-model) - SAP developers tutorials for CAP.
+* [Service integration with SAP Cloud Application Programming Model](https://github.com/SAP-samples/cap-service-integration-codejam/) - SAP CodeJam content.
+* [CAP Local Development Workshop](https://github.com/SAP-samples/cap-local-development-workshop) - Workshop exercises from reCAP 2025.
+* [CodeJam - Combine SAP Cloud Application Programming Model with SAP HANA Cloud to Create Full-Stack Applications](https://github.com/SAP-samples/cap-hana-exercises-codejam) - SAP CodeJam content.
 
 ## Certifications
 
@@ -79,6 +83,9 @@ The Cloud Application Programming Model (CAP) is a framework of tools, languages
 * [SAP Developers YouTube Channel](https://www.youtube.com/@sapdevs) - Look for CAP-specific playlists.
 * [SAP Community YouTube Channel](https://www.youtube.com/@SAPCommunity) - Look for CAP-specific playlists.
 * [TechEd 2024](https://www.sap.com/events/teched/virtual/flow/sap/te24/catalog/page/catalog) - Look for CAP-specific sessions.
+* [The Art and Science of CAP](https://qmacro.org/blog/posts/2024/12/06/the-art-and-science-of-cap/) - a 10 part series with Daniel Hutzel and DJ Adams, with videos and notes.
+* [Back to basics: CAP Node.js](https://www.youtube.com/playlist?list=PL6RpkC85SLQBHPdfHQ0Ry2TMdsT-muECx) - a 20 part video series.
+* [CAP Node.js Plugins](https://www.youtube.com/playlist?list=PL6RpkC85SLQDwzbi9eVuMStRlpVMBqidQ) - a 3 part video series. 
 
 ## Books
 

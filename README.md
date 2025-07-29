@@ -83,9 +83,9 @@ The Cloud Application Programming Model (CAP) is a framework of tools, languages
 * [SAP Developers YouTube Channel](https://www.youtube.com/@sapdevs) - Look for CAP-specific playlists.
 * [SAP Community YouTube Channel](https://www.youtube.com/@SAPCommunity) - Look for CAP-specific playlists.
 * [TechEd 2024](https://www.sap.com/events/teched/virtual/flow/sap/te24/catalog/page/catalog) - Look for CAP-specific sessions.
-* [The Art and Science of CAP](https://qmacro.org/blog/posts/2024/12/06/the-art-and-science-of-cap/) - a 10 part series with Daniel Hutzel and DJ Adams, with videos and notes.
-* [Back to basics: CAP Node.js](https://www.youtube.com/playlist?list=PL6RpkC85SLQBHPdfHQ0Ry2TMdsT-muECx) - a 20 part video series.
-* [CAP Node.js Plugins](https://www.youtube.com/playlist?list=PL6RpkC85SLQDwzbi9eVuMStRlpVMBqidQ) - a 3 part video series. 
+* [The Art and Science of CAP](https://qmacro.org/blog/posts/2024/12/06/the-art-and-science-of-cap/) - A 10 part series with Daniel Hutzel and DJ Adams, with videos and notes.
+* [Back to basics: CAP Node.js](https://www.youtube.com/playlist?list=PL6RpkC85SLQBHPdfHQ0Ry2TMdsT-muECx) - A 20 part video series.
+* [CAP Node.js Plugins](https://www.youtube.com/playlist?list=PL6RpkC85SLQDwzbi9eVuMStRlpVMBqidQ) - A 3 part video series.
 
 ## Books
 

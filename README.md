@@ -53,8 +53,8 @@ The Cloud Application Programming Model (CAP) is a framework of tools, languages
 
 ## Sample Projects & Boilerplates
 
-* [Samples](https://github.com/cap-js/samples) - Find here a collection of samples for the SAP Cloud Application Programming Model organized in a simplistic monorepo setup.
-* [CAP SFLIGHT App](https://github.com/cap-js/sflight) - This is a sample app for the travel reference scenario, built with the SAP Cloud Application Programming Model (CAP) and SAP Fiori Elements.
+* [Node.js samples](https://github.com/SAP-samples/cloud-cap-samples) - Find here a collection of samples for the SAP Cloud Application Programming Model organized in a simplistic monorepo setup.
+* [Java samples](https://github.com/SAP-samples/cloud-cap-samples-java) - A sample application that demonstrates the features of the Java SDK for the SAP Cloud Application Programming Model..
 * [Incident Management – CAP Reference Application](https://github.com/cap-js/incidents-app) - Incident Management reference sample application for the SAP Cloud Application Programming Model (CAP).
 
 ## Tutorials & Courses

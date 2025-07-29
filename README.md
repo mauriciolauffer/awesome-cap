@@ -51,6 +51,7 @@ The Cloud Application Programming Model (CAP) is a framework of tools, languages
 
 * [cds-kafka](https://github.com/mikezaschka/cds-kafka) - Kafka adapter for SAP Cloud Application Programming Model.
 * [cap-js-mockdata](https://github.com/mauriciolauffer/cap-js-mockdata) - SAP CAP plugin to generate mock data.
+* [cds-caching](https://github.com/mikezaschka/cds-caching) - Caching plugin for SAP Cloud Application Programming Model.
 
 ## Sample Projects & Boilerplates
 

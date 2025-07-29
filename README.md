@@ -34,7 +34,7 @@ The Cloud Application Programming Model (CAP) is a framework of tools, languages
 * [Medium - SAP CAP Tag](https://medium.com/tag/sap-cap) - Articles from the broader community on Medium.
 * [Stackoverflow - SAP CAP Tag](https://stackoverflow.com/questions/tagged/sap-cap) - Questions from the broader community on Stackoverflow.
 * [GitHub - CAP Community](https://github.com/cap-js-community) - GitHub repo with CAP plugins.
-* [Best of CAP Node.js](https://bestofcapjs.org/) - A complete collection of Node CAP plugin, tools and sample apps.
+* [Best of CAP Node.js](https://bestofcapjs.org/) - A complete collection of Node CAP plugins, tools and sample apps.
 
 ## Conferences
 

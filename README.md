@@ -66,7 +66,7 @@ The Cloud Application Programming Model (CAP) is a framework of tools, languages
 * [CodeJam - Service integration with CAP](https://github.com/SAP-samples/cap-service-integration-codejam/) - SAP CodeJam content.
 * [CAP Local Development Workshop](https://github.com/SAP-samples/cap-local-development-workshop) - Workshop exercises from reCAP 2025.
 * [CodeJam - Combine SAP Cloud Application Programming Model with SAP HANA Cloud to Create Full-Stack Applications](https://github.com/SAP-samples/cap-hana-exercises-codejam) - SAP CodeJam content.
-* [CodeJam - Build AI services using the SAP Cloud Application Programming Model, SAP AI Core and Generative AI Hub](https://github.com/SAP-samples/codejam-cap-llm) - SAP CodeJam content.
+* [CodeJam - Build AI services using CAP, SAP AI Core and Generative AI Hub](https://github.com/SAP-samples/codejam-cap-llm) - SAP CodeJam content.
 
 ## Certifications
 

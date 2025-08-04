@@ -56,8 +56,9 @@ The Cloud Application Programming Model (CAP) is a framework of tools, languages
 ## Sample Projects & Boilerplates
 
 * [Node.js samples](https://github.com/SAP-samples/cloud-cap-samples) - Find here a collection of samples for the SAP Cloud Application Programming Model organized in a simplistic monorepo setup.
-* [Java samples](https://github.com/SAP-samples/cloud-cap-samples-java) - A sample application that demonstrates the features of the Java SDK for the SAP Cloud Application Programming Model..
+* [Java samples](https://github.com/SAP-samples/cloud-cap-samples-java) - A sample application that demonstrates the features of the Java SDK for the SAP Cloud Application Programming Model.
 * [Incident Management – CAP Reference Application](https://github.com/cap-js/incidents-app) - Incident Management reference sample application for the SAP Cloud Application Programming Model (CAP).
+* [SAP CAP Star Wars sample to demonstrate many-to-many relationships](https://github.com/SAP-samples/cloud-cap-hana-swapi) - A sample application based upon the SWAPI, or Star Wars API, that demonstrates many-to-many relationships in the SAP Cloud Application Programming Model (CAP).
 
 ## Tutorials & Courses
 
@@ -66,7 +67,7 @@ The Cloud Application Programming Model (CAP) is a framework of tools, languages
 * [CodeJam - Service integration with CAP](https://github.com/SAP-samples/cap-service-integration-codejam/) - SAP CodeJam content.
 * [CAP Local Development Workshop](https://github.com/SAP-samples/cap-local-development-workshop) - Workshop exercises from reCAP 2025.
 * [CodeJam - Combine SAP Cloud Application Programming Model with SAP HANA Cloud to Create Full-Stack Applications](https://github.com/SAP-samples/cap-hana-exercises-codejam) - SAP CodeJam content.
-* [CodeJam - Build AI services using CAP, SAP AI Core and Generative AI Hub](https://github.com/SAP-samples/codejam-cap-llm) - SAP CodeJam content.
+* [CAP and Generative AI Hub CodeJam](https://github.com/SAP-samples/codejam-cap-llm) - SAP CodeJam content.
 
 ## Certifications
 

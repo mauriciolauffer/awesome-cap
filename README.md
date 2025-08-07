@@ -46,6 +46,7 @@ The Cloud Application Programming Model (CAP) is a framework of tools, languages
 * [ESLint](https://cap.cloud.sap/docs/tools/cds-lint/) - Official ESLint rules for CAP.
 * [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=SAPSE.vscode-cds) - Language support for SAP CDS for Visual Studio Code.
 * [IntelliJ Extension](https://github.com/cap-js/cds-intellij) - SAP CDS Language Support for IntelliJ.
+* [OData for VSCode](https://marketplace.visualstudio.com/items?itemName=manuelseeger.odata) - Copilot enabled OData support for Visual Studio Code.
 
 ## Libraries, Extensions, Plugins
 
